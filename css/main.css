@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  font-family: Georgia, serif;
   line-height: 1.5;
 }
 
@@ -10,3 +11,15 @@ html {
 img {
   width: 100%;
 }
+
+body {
+margin: 0;
+}
+
+
+
+
+
+
+
+/*font-family: 'Denk One', sans-serif;*/
