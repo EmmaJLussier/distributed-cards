@@ -18,6 +18,10 @@ body {
   padding: 0;
 }
 
+h1 {
+  padding: 1rem;
+}
+
 h1, h2 {
   font-family: "Denk One", sans-serif;
   color: #623b0c;
