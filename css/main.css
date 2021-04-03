@@ -19,7 +19,9 @@ body {
 }
 
 h1 {
-  padding: 1rem;
+  padding-left: 1rem;
+  padding-bottom: 0;
+  padding-top: 1rem;
   margin: 0;
 }
 
@@ -40,8 +42,8 @@ ol {
 ol li {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  justify-content: space-between;
+  align-items: stretch;
   padding: 1rem;
   background-color: #ede3db;
   border: 2px solid;
