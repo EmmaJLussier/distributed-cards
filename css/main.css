@@ -12,24 +12,6 @@ img {
   width: 100%;
 }
 
-body {
-margin: 0;
-padding: 0;
-
-display: grid;
-grid-template-columns: 1fr;
-grid-template-areas:
-"banner";
-}
-
-main {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  padding: 0;
-
-}
 
 
 
