@@ -21,4 +21,15 @@ body {
 h1, h2 {
   font-family: "Denk One", sans-serif;
   color: #623b0c;
+  list-style: none;
+}
+
+ol {
+  display: grid;
+  grid-template-columns: 1fr;
+
+}
+
+ol li {
+display: flex;
 }
