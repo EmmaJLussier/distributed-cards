@@ -21,15 +21,28 @@ body {
 h1, h2 {
   font-family: "Denk One", sans-serif;
   color: #623b0c;
-  list-style: none;
+  list-style-type: none;
 }
 
 ol {
   display: grid;
   grid-template-columns: 1fr;
-
+  margin: 1.5rem;
 }
 
 ol li {
-display: flex;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: .5em .75em .6em;
+  gap: 1rem;
+  background-color: #ede3db;
+  border-radius: 8px;
+  border-color: #623b0c;
+}
+
+li a {
+  background-color: #623b0c;
+  color: #fff;
 }
