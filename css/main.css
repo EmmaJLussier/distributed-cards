@@ -68,3 +68,13 @@ li a {
   padding: .5rem .75em .6em;
   border-radius: 8px;
 }
+
+li p {
+  color: #000;
+  margin-top: 1.5rem;
+  padding: 0;
+}
+
+li img {
+  margin: 0;
+}
